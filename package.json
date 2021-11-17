@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  },
+  "name": "db-creating-data-hollylui",
+  "description": "This assignment will have you practising saving data to the database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E03/db-creating-data-hollylui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E03/db-creating-data-hollylui/issues"
+  },
+  "homepage": "https://github.com/FbW-E03/db-creating-data-hollylui#readme"
+}
